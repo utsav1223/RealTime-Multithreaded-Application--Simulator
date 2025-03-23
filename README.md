@@ -70,7 +70,7 @@ The **Real-Time Multi-threaded Application Simulator** is designed to demonstrat
 - **Enhanced Visualization:** Improving real-time monitoring & interactive UI.
 
 ## Contributors
-- [Your Name] - Developer
+- [Utsav Kumar Jha] - Developer
 
 ## License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
